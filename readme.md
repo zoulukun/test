@@ -9,3 +9,4 @@ Git tracks changes.
 GGGGGGGGGG
 
 LLLLLLLLLLLL
+Creating a new branch is quick AND simple.
